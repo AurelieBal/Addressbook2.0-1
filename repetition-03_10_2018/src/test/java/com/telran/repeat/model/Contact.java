@@ -51,4 +51,15 @@ public class Contact {
   public String getPhoneHome() {
     return phoneHome;
   }
+
+  @Override
+  public String toString() {
+    return "Contact{" +
+            "fName='" + fName + '\'' +
+            ", lName='" + lName + '\'' +
+            ", address='" + address + '\'' +
+            ", email='" + email + '\'' +
+            ", phoneHome='" + phoneHome + '\'' +
+            '}';
+  }
 }

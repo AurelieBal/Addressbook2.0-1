@@ -9,16 +9,13 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class ContactCreationTests extends TestBase {
-  @Test
-  public void createContactTest() throws IOException {
+  @Test(dataProvider = "validContacts", dataProviderClass = StaticProvider.class)
+  public void createContactTest(Contact contact) {
     app.getContactHelper().initContactCreation();
-    app.getContactHelper().fillContactForm(new Contact()
-            .setfName("Moshe")
-            .setlName("Coen")
-            .setAddress("Tel-Aviv")
-            .setEmail("gg@hh.com")
-            .setPhoneHome("134455566"));
+    app.getContactHelper().fillContactForm(contact);
     app.getContactHelper().confirmContactCreation();
+
+
 
   }
 }

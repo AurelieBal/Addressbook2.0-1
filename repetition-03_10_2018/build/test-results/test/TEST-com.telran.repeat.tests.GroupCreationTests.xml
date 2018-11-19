@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.repeat.tests.GroupCreationTests" tests="3" skipped="3" failures="0" errors="0" timestamp="2018-11-19T11:08:15" hostname="MacBook-Air-de-AURELIE.local" time="0.001">
+  <properties/>
+  <testcase name="testGroupCreation" classname="com.telran.repeat.tests.GroupCreationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGroupCreation" classname="com.telran.repeat.tests.GroupCreationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGroupCreation" classname="com.telran.repeat.tests.GroupCreationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
