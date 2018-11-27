@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46673f35-060f-4deb-a016-f5c4b145a351" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Draggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Droppable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/firstSimpleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/GroupHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/model/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/tests/ContactCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/tests/ContactCreationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactCreationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactDeletionTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactDeletionTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactModificationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupCreationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupDeletionTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupDeletionTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupModificationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/packages/com.telran.repeat.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/packages/com.telran.repeat.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactCreationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactDeletionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactDeletionTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactModificationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupCreationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupDeletionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupDeletionTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupModificationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="46673f35-060f-4deb-a016-f5c4b145a351" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/build/" />
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/out/" />
@@ -142,14 +94,14 @@
         <counts>
           <entry key="csv" value="211" />
           <entry key="gradle" value="131" />
-          <entry key="java" value="2615" />
+          <entry key="java" value="2617" />
           <entry key="xml" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="131" />
-          <entry key="JAVA" value="2615" />
+          <entry key="JAVA" value="2617" />
           <entry key="PLAIN_TEXT" value="211" />
           <entry key="XML" value="91" />
         </counts>
@@ -194,22 +146,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -1634,9 +1586,9 @@
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" />
         <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
       </list>
     </option>
   </component>
@@ -1981,7 +1933,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="isDisplay&#9;FILE&#9;jar:///Users/aureliebalassiano/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.14.0/434c26e9df775d8f49619f7275a65a36d2d72ceb/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/isDisplayed.js" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543321653395" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543321946787" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -2164,9 +2116,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ContactCreationTests - 2018.11.12 at 14h 58m 53s.xml">
-      <configuration name="ContactCreationTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Draggable_testDraggable - 2018.11.21 at 10h 59m 01s.xml">
       <configuration name="Draggable.testDraggable" configurationId="TestNG" />
     </history-entry>
@@ -2194,9 +2143,13 @@
     <history-entry file="ContactCreationTests - 2018.11.27 at 14h 26m 32s.xml">
       <configuration name="ContactCreationTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ContactCreationTests - 2018.11.27 at 14h 27m 39s.xml">
+      <configuration name="ContactCreationTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -2204,10 +2157,10 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24892704" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24892704" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28611898" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28611898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978159" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2648,24 +2601,24 @@
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="152">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
         </state>
       </provider>
     </entry>

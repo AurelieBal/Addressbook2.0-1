@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.repeat.tests.ContactCreationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-27T12:28:21" hostname="MacBook-Air-de-AURELIE.local" time="4.213">
+  <properties/>
+  <testcase name="createContactTest[0](Contact{fName='&quot;Haim&quot;', lName='&quot;Kohen&quot;', address='&quot;Ashkelon&quot;', email='&quot;hk@gmail.com&quot;', phoneHome='&quot;053821036&quot;'})" classname="com.telran.repeat.tests.ContactCreationTests" time="1.462"/>
+  <testcase name="createContactTest[1](Contact{fName='&quot;Rivka&quot;', lName='&quot;Kohen&quot;', address='&quot;Ashkelon&quot;', email='&quot;rk@gmail.com&quot;', phoneHome='&quot;053821036&quot;'})" classname="com.telran.repeat.tests.ContactCreationTests" time="1.4"/>
+  <testcase name="createContactTest2" classname="com.telran.repeat.tests.ContactCreationTests" time="1.348"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

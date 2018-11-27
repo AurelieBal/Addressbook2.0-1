@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.repeat.tests.GroupCreationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-27T12:28:27" hostname="MacBook-Air-de-AURELIE.local" time="3.47">
+  <properties/>
+  <testcase name="testGroupCreation[0](Group{groupName='test1', groupHeader='head1', groupFooter='footer1'})" classname="com.telran.repeat.tests.GroupCreationTests" time="1.168"/>
+  <testcase name="testGroupCreation[1](Group{groupName='test2', groupHeader='head2', groupFooter='footer2'})" classname="com.telran.repeat.tests.GroupCreationTests" time="1.167"/>
+  <testcase name="testGroupCreation[2](Group{groupName='test3', groupHeader='head3', groupFooter='footer3'})" classname="com.telran.repeat.tests.GroupCreationTests" time="1.135"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
