@@ -2,33 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46673f35-060f-4deb-a016-f5c4b145a351" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/aureliebalassiano.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cvbank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cvbank_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cvbank_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/dataProvider/StaticProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/SessionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/StaticProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/contacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/simple test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Draggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Droppable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple test/src/test/java/firstSimpleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/ContactHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/GroupHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/manager/HelperBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/model/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/tests/ContactCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/classes/java/test/com/telran/repeat/tests/ContactCreationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactCreationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactDeletionTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactDeletionTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.ContactModificationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupCreationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupDeletionTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupDeletionTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/classes/com.telran.repeat.tests.GroupModificationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/packages/com.telran.repeat.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/packages/com.telran.repeat.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactCreationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactDeletionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactDeletionTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.ContactModificationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupCreationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupDeletionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupDeletionTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/TEST-com.telran.repeat.tests.GroupModificationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/ContactHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/model/Group.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupCreationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/resources/groups.csv" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/resources/groups.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Group.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv" beforeDir="false" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/build/" />
@@ -42,6 +62,9 @@
     <ignored path="$PROJECT_DIR$/CVBank/.gradle/" />
     <ignored path="$PROJECT_DIR$/CVBank/build/" />
     <ignored path="$PROJECT_DIR$/CVBank/out/" />
+    <ignored path="$PROJECT_DIR$/simple test/.gradle/" />
+    <ignored path="$PROJECT_DIR$/simple test/build/" />
+    <ignored path="$PROJECT_DIR$/simple test/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +79,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/repetition-03_10_2018">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/simple test">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/trello tests">
@@ -78,48 +104,54 @@
     <session id="1045427035">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="3" />
-          <entry key="gradle" value="5" />
-          <entry key="java" value="15" />
+          <entry key="csv" value="9" />
+          <entry key="gradle" value="6" />
+          <entry key="html" value="1" />
+          <entry key="java" value="49" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="testng" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="15" />
+          <entry key="Groovy" value="6" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="49" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="XML" value="2" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="211" />
-          <entry key="gradle" value="91" />
-          <entry key="java" value="1045" />
-          <entry key="xml" value="75" />
+          <entry key="gradle" value="131" />
+          <entry key="java" value="2615" />
+          <entry key="xml" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="91" />
-          <entry key="JAVA" value="1045" />
+          <entry key="Groovy" value="131" />
+          <entry key="JAVA" value="2615" />
           <entry key="PLAIN_TEXT" value="211" />
-          <entry key="XML" value="75" />
+          <entry key="XML" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -128,84 +160,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/GroupCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/build.gradle">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/ApplicationManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/dataProvider/StaticProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/SessionHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -214,7 +181,66 @@
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/contacts.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <caret line="1" column="53" lean-forward="true" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/GroupModificationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -237,6 +263,7 @@
         <entry key="$PROJECT_DIR$/CVBank" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
         <entry key="$PROJECT_DIR$/addressbook-selenium-tests" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0" />
         <entry key="$PROJECT_DIR$/repetition-03_10_2018" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0" />
+        <entry key="$PROJECT_DIR$/simple test" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
         <entry key="$PROJECT_DIR$/trello tests" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0" />
       </map>
     </option>
@@ -245,6 +272,7 @@
         <entry key="$PROJECT_DIR$/CVBank" value="4.8" />
         <entry key="$PROJECT_DIR$/addressbook-selenium-tests" value="4.0" />
         <entry key="$PROJECT_DIR$/repetition-03_10_2018" value="4.0" />
+        <entry key="$PROJECT_DIR$/simple test" value="4.8" />
         <entry key="$PROJECT_DIR$/trello tests" value="4.0" />
       </map>
     </option>
@@ -294,6 +322,22 @@
               <ExternalProjectPojo>
                 <option name="name" value="repetition-03_10_2018" />
                 <option name="path" value="$PROJECT_DIR$/repetition-03_10_2018" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="simple test" />
+              <option name="path" value="$PROJECT_DIR$/simple test" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="simple test" />
+                <option name="path" value="$PROJECT_DIR$/simple test" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -741,6 +785,147 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/simple test">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'simple test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'simple test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'simple test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'simple test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/simple test" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/trello tests">
           <value>
             <list>
@@ -901,6 +1086,11 @@
         <entry key="$PROJECT_DIR$/repetition-03_10_2018/build.gradle" value="27150774" />
         <entry key="$PROJECT_DIR$/repetition-03_10_2018/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/repetition-03_10_2018/settings.gradle" value="3300113702" />
+        <entry key="$PROJECT_DIR$/simple test" value="6170810823000" />
+        <entry key="$PROJECT_DIR$/simple test/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/simple test/build.gradle" value="107357155" />
+        <entry key="$PROJECT_DIR$/simple test/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
+        <entry key="$PROJECT_DIR$/simple test/settings.gradle" value="4101867966" />
         <entry key="$PROJECT_DIR$/trello tests" value="6163261174000" />
         <entry key="$PROJECT_DIR$/trello tests/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/trello tests/build.gradle" value="2541232150" />
@@ -1191,6 +1381,105 @@
             </ExternalProjectBuildClasspathPojo>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/simple test">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/simple test">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/simple test" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="simple test" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/trello tests">
           <value>
             <ExternalProjectBuildClasspathPojo>
@@ -1289,6 +1578,7 @@
         <entry key="$PROJECT_DIR$/CVBank" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/addressbook-selenium-tests" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/repetition-03_10_2018" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/simple test" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/trello tests" value="RE_IMPORT" />
       </map>
     </option>
@@ -1296,25 +1586,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/ContactDeletionTests.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/GroupDeletionTests.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/GroupCreationTests.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/ContactModificationTests.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/TestBase.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/GroupHelper.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/HelperBase.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/ContactHelper.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/GroupModificationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/SessionHelper.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/NavigationHelper.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ApplicationManager.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/trello tests/build.gradle" />
@@ -1334,19 +1612,31 @@
         <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/testng.xml" />
         <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/testng.xml" />
         <option value="$PROJECT_DIR$/addressbook-selenium-tests/build.gradle" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Group.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/contacts.csv" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/StaticProvider.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" />
         <option value="$PROJECT_DIR$/CVBank/build.gradle" />
         <option value="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/dataProvider/StaticProvider.java" />
         <option value="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/SessionHelper.java" />
         <option value="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/build.gradle" />
+        <option value="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" />
+        <option value="$PROJECT_DIR$/simple test/build.gradle" />
+        <option value="$PROJECT_DIR$/simple test/src/test/java/firstSimpleTest.java" />
+        <option value="$PROJECT_DIR$/simple test/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/simple test/src/test/java/Draggable.java" />
+        <option value="$PROJECT_DIR$/simple test/src/test/java/Droppable.java" />
+        <option value="$PROJECT_DIR$/simple test/src/test/java/Resizable.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" />
+        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
       </list>
     </option>
   </component>
@@ -1357,9 +1647,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="733" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1370,11 +1660,78 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -1383,6 +1740,27 @@
               <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashkelon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
@@ -1448,7 +1826,41 @@
             <path>
               <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
@@ -1471,39 +1883,133 @@
               <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repeat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repetition-03_10_2018" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-selenium-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="isDisplay&#9;FILE&#9;jar:///Users/aureliebalassiano/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.14.0/434c26e9df775d8f49619f7275a65a36d2d72ceb/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/isDisplayed.js" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542630474204" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543321653395" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.09930486" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager" />
-      <recent name="$PROJECT_DIR$/CVBank" />
-      <recent name="$PROJECT_DIR$/addressbook-selenium-tests" />
-      <recent name="$PROJECT_DIR$/repetition-03_10_2018" />
-      <recent name="C:\Users\Elena\Documents\GitHub\Addressbook2.0\trello tests\src\test\java\com\telRan\trello" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.Elpisor.qa.dataProvider" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources" />
+      <recent name="$PROJECT_DIR$/simple test" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.telran.repeat.tests" />
       <recent name="com.telran.repeat.manager" />
       <recent name="com.telran.repeat" />
       <recent name="com.telRan.ashkelon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Elpisor.qa.dataProvider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager" />
+      <recent name="$PROJECT_DIR$/CVBank" />
+      <recent name="$PROJECT_DIR$/addressbook-selenium-tests" />
+      <recent name="$PROJECT_DIR$/repetition-03_10_2018" />
+      <recent name="C:\Users\Elena\Documents\GitHub\Addressbook2.0\trello tests\src\test\java\com\telRan\trello" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1554,7 +2060,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactCreationTests.createContactTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ContactCreationTests.createContactTest2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="repetition-03_10_2018_test" />
       <extension name="coverage">
         <pattern>
@@ -1564,7 +2070,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.telran.repeat.tests" />
       <option name="MAIN_CLASS_NAME" value="com.telran.repeat.tests.ContactCreationTests" />
-      <option name="METHOD_NAME" value="createContactTest" />
+      <option name="METHOD_NAME" value="createContactTest2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -1573,52 +2079,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationTests (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="repetition-03_10_2018_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.repeat.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.telran.repeat.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.repeat.tests.GroupCreationTests" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupCreationTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="addressbook-selenium-tests_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telRan.ashkelon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.ashkelon" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.ashkelon.GroupCreationTests" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupCreationTests.testGroupCreation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="repetition-03_10_2018_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.repeat.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.telran.repeat.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.repeat.tests.GroupCreationTests" />
-      <option name="METHOD_NAME" value="testGroupCreation" />
+    <configuration name="Draggable.testDraggable" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="simple_test_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Draggable" />
+      <option name="METHOD_NAME" value="testDraggable" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Droppable.testDroppable" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="simple_test_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Droppable" />
+      <option name="METHOD_NAME" value="testDroppable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aureliebalassiano/Documents/GitHub/Addressbook2.0-1/repetition-03_10_2018/src/test/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="repetition-03_10_2018_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -1644,19 +2134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.GroupCreationTests" />
-      <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
-      <item itemvalue="TestNG.GroupCreationTests (1)" />
-      <item itemvalue="TestNG.ContactCreationTests.createContactTest" />
+      <item itemvalue="TestNG.Draggable.testDraggable" />
+      <item itemvalue="TestNG.Droppable.testDroppable" />
+      <item itemvalue="TestNG.ContactCreationTests.createContactTest2" />
+      <item itemvalue="TestNG./Users/aureliebalassiano/Documents/GitHub/Addressbook2.0-1/repetition-03_10_2018/src/test/resources/testng.xml" />
       <item itemvalue="TestNG.ContactCreationTests" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.ContactCreationTests" />
-        <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
-        <item itemvalue="TestNG.ContactCreationTests.createContactTest" />
-        <item itemvalue="TestNG.GroupCreationTests (1)" />
-        <item itemvalue="TestNG.GroupCreationTests" />
+        <item itemvalue="TestNG./Users/aureliebalassiano/Documents/GitHub/Addressbook2.0-1/repetition-03_10_2018/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.ContactCreationTests.createContactTest2" />
+        <item itemvalue="TestNG.Droppable.testDroppable" />
+        <item itemvalue="TestNG.Draggable.testDraggable" />
       </list>
     </recent_temporary>
   </component>
@@ -1674,39 +2164,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTests_(1) - 2018.11.12 at 14h 26m 45s.xml">
-      <configuration name="GroupCreationTests (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests_(1) - 2018.11.12 at 14h 29m 24s.xml">
-      <configuration name="GroupCreationTests (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests_(1) - 2018.11.12 at 14h 33m 17s.xml">
-      <configuration name="GroupCreationTests (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests_createContactTest - 2018.11.12 at 14h 33m 26s.xml">
-      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests_createContactTest - 2018.11.12 at 14h 44m 29s.xml">
-      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests_createContactTest - 2018.11.12 at 14h 45m 11s.xml">
-      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests_createContactTest - 2018.11.12 at 14h 53m 11s.xml">
-      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests_createContactTest - 2018.11.12 at 14h 53m 35s.xml">
-      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests_testGroupCreation - 2018.11.12 at 14h 53m 52s.xml">
-      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ContactCreationTests - 2018.11.12 at 14h 58m 53s.xml">
+      <configuration name="ContactCreationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Draggable_testDraggable - 2018.11.21 at 10h 59m 01s.xml">
+      <configuration name="Draggable.testDraggable" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Draggable_testDraggable - 2018.11.21 at 10h 59m 45s.xml">
+      <configuration name="Draggable.testDraggable" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Droppable_testDroppable - 2018.11.21 at 11h 17m 44s.xml">
+      <configuration name="Droppable.testDroppable" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_createContactTest2 - 2018.11.21 at 12h 57m 52s.xml">
+      <configuration name="ContactCreationTests.createContactTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_createContactTest2 - 2018.11.21 at 14h 58m 09s.xml">
+      <configuration name="ContactCreationTests.createContactTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_createContactTest2 - 2018.11.21 at 14h 59m 11s.xml">
+      <configuration name="ContactCreationTests.createContactTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_createContactTest2 - 2018.11.21 at 15h 00m 42s.xml">
+      <configuration name="ContactCreationTests.createContactTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aureliebalassiano_Documents_GitHub_Addressbook2_0-1_repetition-03_10_2018_src_test_resources_testng_xml - 2018.11.27 at 14h 17m 51s.xml">
+      <configuration name="/Users/aureliebalassiano/Documents/GitHub/Addressbook2.0-1/repetition-03_10_2018/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests - 2018.11.27 at 14h 26m 32s.xml">
       <configuration name="ContactCreationTests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="733" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="798" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -1714,21 +2204,21 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.23819743" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24892704" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28861153" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28611898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978159" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32991803" />
@@ -1744,26 +2234,26 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2353362" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24177396" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2901716" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28611898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978159" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32991803" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.076537915" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.076537915" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
@@ -1794,117 +2284,28 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/simple test/src/test/java/Draggable.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/simple test/src/test/java/Draggable.java</url>
+          <line>11</line>
+          <properties class="Draggable" method="testDraggable">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trello tests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/ContactModificationTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/GroupCreationTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/ContactDeletionTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/GroupDeletionTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/GroupModificationTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/tests/ContactCreationTests.java" />
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/model/Contact.java" />
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/model/Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/model/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="592" selection-start-line="592" selection-end-line="592" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/manager/BoardHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/manager/testng">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1952,13 +2353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trello tests/src/test/java/com/telRan/trello/manager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -2001,27 +2395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/StaticProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -2029,35 +2402,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/tests.java" />
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CVBank/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -2068,8 +2417,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/dataProvider/StaticProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2088,24 +2441,231 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/contacts.csv">
+    <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/manager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CVBank/src/test/java/com/Elpisor/qa/dataProvider/StaticProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="420">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/Unknown.jpg" />
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/src/test/java/Droppable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/src/test/java/Resizable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/src/test/java/Draggable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/src/test/java/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/StaticProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple test/src/test/java/firstSimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactDeletionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/GroupModificationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/groups.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/resources/contacts.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="true" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -2161,7 +2721,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Cvbank_test|Cvbank</last-edited>
+          <last-edited>simple_test_test|simple_test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
